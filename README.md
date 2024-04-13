@@ -2,10 +2,10 @@
 
 Welcome to my GitHub! I am a software engineer with a love for serving people. Although I have spent 15 years in the coffee industry, I believe great hospitality and service can (and should) be applied to all industries. I am passionate about helping others succeed by sharing my experience and knowledge and showing them the benefits of continuous improvement. I get excited by new challenges and thrive in fast-paced environments where creative thinking is a requirement.
 
-- 🔭 I’m currently working on a business management app for small food service businesses
-- 🌱 I’m currently learning how to improve my skills with CSS
+- 🔭 I’m currently working on upskilling by learning about Cloud services
+- 🌱 I’m currently working on my AWS Cloud Practitioner Certification
 - 😄 Pronouns: he/him
-- 🎮 Currently playing: Baldur's Gate 3
+- 🎮 Currently playing: Dragon's Dogma II, Fallout 3
 
 ## Tasker
 
