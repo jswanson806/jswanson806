@@ -5,7 +5,7 @@ Welcome to my GitHub! I am a software engineer with a love for serving people. A
 - 🔭 I’m currently building an equipment maintenance management application for small businesses
 - 🌱 I’m currently working on my AWS Cloud Practitioner Certification
 - 😄 Pronouns: he/him
-- 🎮 Currently playing: Dragon's Dogma II, Fallout 3
+- 🎮 Currently playing: Elden Ring
 
 ## Tasker
 
