@@ -5,7 +5,7 @@ Welcome to my GitHub! I am a software engineer with a love for serving people. A
 - 🔭 I’m currently building an equipment maintenance management (CMMS) application for small businesses
 - 🌱 I’m currently working on my AWS Cloud Practitioner Certification
 - 😄 Pronouns: he/him
-- 🎮 Currently playing: Indiana Jones And The Great Circle
+- 🎮 Currently playing: Avowed
 
 ## Tasker
 
